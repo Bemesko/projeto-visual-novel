@@ -42,6 +42,6 @@ public class TestingSpeak : MonoBehaviour
         string speech = parts[0];
         string speaker = (parts.Length >= 2) ? parts[1] : "";
 
-        dialogueSystem.Say(speech, speaker);
+        dialogueSystem.Say(speech, true, speaker);
     }
 }

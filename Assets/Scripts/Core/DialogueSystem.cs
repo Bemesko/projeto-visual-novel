@@ -21,10 +21,13 @@ public class DialogueSystem : MonoBehaviour
 
     }
 
-    public void Say(string speech, string speaker)
+    public void Say(string speech, bool additive = false, string speaker = "")
     {
         StopSpeaking();
-        speaking = StartCoroutine(Speaking(speech, speaker));
+
+        speechText.text = targetSpeech;
+
+        speaking = StartCoroutine(Speaking(speech, additive, speaker));
     }
 
     public void StopSpeaking()
@@ -38,12 +41,19 @@ public class DialogueSystem : MonoBehaviour
 
     public bool isSpeaking { get { return speaking != null; } }
     public bool isWaitingForUserInput = false;
+    string targetSpeech = "";
     Coroutine speaking = null;
-    IEnumerator Speaking(string targetSpeech, string speaker)
+    IEnumerator Speaking(string speech, bool additive, string speaker)
     {
         speechPanel.SetActive(true);
-        speechText.text = "asdf";
-        speakerNameText.text = speaker;
+        targetSpeech = speech;
+
+        if (!additive)
+            speechText.text = "";
+        else
+            targetSpeech = speechText.text + targetSpeech;
+
+        speakerNameText.text = DetermineSpeaker(speaker);
         isWaitingForUserInput = false;
 
         while (speechText.text != targetSpeech)
@@ -58,6 +68,18 @@ public class DialogueSystem : MonoBehaviour
             yield return new WaitForEndOfFrame();
 
         StopSpeaking();
+    }
+
+    string DetermineSpeaker(string s)
+    {
+        string determinedSpeaker = speakerNameText.text;
+
+        if (s != speakerNameText.text && s != "")
+        {
+            determinedSpeaker = (s.ToLower().Contains("narrator")) ? "" : s;
+        }
+
+        return determinedSpeaker;
     }
 
     [System.Serializable]
