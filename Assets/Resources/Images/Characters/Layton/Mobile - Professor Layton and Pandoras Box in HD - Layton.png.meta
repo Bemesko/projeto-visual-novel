@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 2767b87b83a78fc4b85e5bb44a66f137
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2164135530028528879
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_0
+  - first:
+      213: -8351211262834430470
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_1
+  - first:
+      213: -1796715648380031016
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_3
+  - first:
+      213: 8308587681698397239
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_4
+  - first:
+      213: -7852082991308143802
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_5
+  - first:
+      213: 5498283888573440454
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_6
+  - first:
+      213: -4723727480952533623
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_2
+  - first:
+      213: -8436994143636905616
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_7
+  - first:
+      213: -4275909913125317805
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_8
+  - first:
+      213: -1595627567923526359
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_9
+  - first:
+      213: -7609025465500756144
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_10
+  - first:
+      213: -6030606352890730010
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_11
+  - first:
+      213: 4926337920536567809
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_12
+  - first:
+      213: -591281458784109773
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_13
+  - first:
+      213: 1879974495389429294
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_14
+  - first:
+      213: 4488177938268437707
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_15
+  - first:
+      213: -7385939966578061917
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_16
+  - first:
+      213: -4827704045619863324
+    second: Mobile - Professor Layton and Pandoras Box in HD - Layton_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b09d6933277f1e0800000000000000
+      internalID: -2164135530028528879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 260
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd23826a998a1c80800000000000000
+      internalID: -8351211262834430470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 220
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2cef13a8c017e0800000000000000
+      internalID: -1796715648380031016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 220
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb1d8c9780e4370800000000000000
+      internalID: 8308587681698397239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 220
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643013c1f1cc70390800000000000000
+      internalID: -7852082991308143802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_6
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 0
+        width: 220
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16ca4c014dd4c40800000000000000
+      internalID: 5498283888573440454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_2
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 165
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc21a22e2f17eb0800000000000000
+      internalID: -4723727480952533623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_7
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 165
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a8780786c9ea80800000000000000
+      internalID: -8436994143636905616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_8
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 95
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3531898b69ae8a4c0800000000000000
+      internalID: -4275909913125317805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_9
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 95
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92509145e213bd9e0800000000000000
+      internalID: -1595627567923526359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_10
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 25
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0571de947af476690800000000000000
+      internalID: -7609025465500756144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_11
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 25
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ebbb397bfe4ca0800000000000000
+      internalID: -6030606352890730010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_12
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 95
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006e15ec3edd5440800000000000000
+      internalID: 4926337920536567809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 95
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf5ee55a85bc7f0800000000000000
+      internalID: -591281458784109773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_14
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 95
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2b70d7d2071a10800000000000000
+      internalID: 1879974495389429294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 165
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3c333e06394e30800000000000000
+      internalID: 4488177938268437707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_16
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 165
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad01c79bbedf7990800000000000000
+      internalID: -7385939966578061917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Professor Layton and Pandoras Box in HD - Layton_17
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 165
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0ac10bfbc800db0800000000000000
+      internalID: -4827704045619863324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
